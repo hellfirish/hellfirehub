@@ -1,4 +1,3 @@
---- Join Venom Version 2
 _, Protected_by_Trey, Discord = 'discord.gg/gQEH2uZxUk'
 
 
